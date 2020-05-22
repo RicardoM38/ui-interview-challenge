@@ -19,3 +19,9 @@ As a user of our system, I want to be able to visualize viewer metrics for an Ev
 * Bonus - Redesign the Menu on the Left
 * Double Bonus - Simplify the overall page design
 * Triple Bonus - Mock it up in React or HTML/CSS 
+
+You may also provide any of the following your feel are relevant:
+
+* Portfolio
+* Example Mockups
+* UX Research Examples and Applicable to this design
